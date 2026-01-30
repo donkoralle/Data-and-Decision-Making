@@ -1,4 +1,4 @@
-# 📘 Course Materials: XXX
+# 📘 Course Materials: Data and Decision Making
 
 This repository contains materials used in the course taught at the [IMC University of Applied Sciences Krems](https://www.imc.ac.at/). The materials are shared to support learning, collaboration, and adaptation by educators, students, practitioners, and of course: you 😉.
 
@@ -6,23 +6,23 @@ This repository contains materials used in the course taught at the [IMC Univers
 
 ## 🗂️ Contents
 
-- `slides/` – PowerPoint slides (.pptx) used in contact hours  
+- `slides/` – PowerPoint slides (.pptx) used in class  
 - `syllabus.pdf` – Course description and learning outcomes  
 
 ---
 
 ## 📜 Metadata
 
-- **Title:** XXX
+- **Title:** Data and Decision Making
 - **Author(s):** Kami Höferl
 - **Institution:** IMC University of Applied Sciences Krems  
-- **Semester:** XXX  
+- **Semester:** Summer semester 2026  
 - **Language:** English  
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-- **Version:** v1.0 (XXX)  
-- **DOI:** XXX
-- **Keywords:** XXX
+- **Version:** v0 (work in progress)  
+- **DOI:** forthcoming with v1  
+- **Keywords:** statistics, decision making, data analysis, data visualization
 
 ---
 
