@@ -20,7 +20,7 @@ This repository contains materials used in the course taught at the [IMC Univers
 - **Language:** English  
 - **Level:** Bachelor  
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-- **Version:** v0 (work in progress)  
+- **Version:** v1 (SS26)  
 - **DOI:** https://doi.org/10.5281/zenodo.20408709  
 - **Keywords:** statistics, decision making, data analysis, data visualization
 
