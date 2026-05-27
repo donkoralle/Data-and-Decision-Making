@@ -6,7 +6,7 @@ This repository contains materials used in the course taught at the [IMC Univers
 
 ## 🗂️ Contents
 
-- `slides/` – PowerPoint slides (.pptx) used in class  
+- `slides and materials/` – PowerPoint slides (.pptx) and other materials used in class  
 - `syllabus.pdf` – Course description and learning outcomes  
 
 ---
